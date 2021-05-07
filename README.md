@@ -30,7 +30,7 @@ This heat map provides deeper insight into the correlation between the health an
 * gender and smoking 
 * smoking and alcohol
 
-Suprisingly excercise does not have any correlation with any other features. 
+Suprisingly excercise does not have any correlation with any other features, meaning excercise does not have any strong correlation with any unhealthy or unhealthy feature. 
 
 Below is a graph providing an explanation for each feature.
 
